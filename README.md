@@ -8,4 +8,6 @@ This is the architecture for the RNN-based classification model:
 
 [View on Google Colab](https://colab.research.google.com/github/omarsar/pytorch_intro_rnn/blob/master/RNN_PT.ipynb)
 
+[View on GitHub](https://github.com/omarsar/pytorch_intro_rnn/blob/master/RNN_PT.ipynb)
+
 [View on Medium](https://medium.com/dair-ai/building-rnns-is-fun-with-pytorch-and-google-colab-3903ea9a3a79)
